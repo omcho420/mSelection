@@ -1,0 +1,7 @@
+{
+    "user": "omcho420",
+    "repo": "mSelection",
+    "dependencies": [
+        "sampctl/samp-stdlib"
+    ]
+}
